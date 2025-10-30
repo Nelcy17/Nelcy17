@@ -16,9 +16,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Nelcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nelcy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nelcy17&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelcy17&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelcy17&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nelcy17&theme=react-dark&hide_border=false&area=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nelcy17&color=blueviolet&style=for-the-badge)
 
 ---
 
