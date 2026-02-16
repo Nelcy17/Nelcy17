@@ -9,7 +9,7 @@
 - 🎓 Final Year  **Computer Science(AIML) Engineering Student**
 - 💻 Experienced in **MERN Stack**
 - 📚 I’m currently working on **MERN PROJECTS**
-- 🔭 I’m currently learning **Full Stack, DSA and CP** and exploring **ML and DevOps**
+- 🔭 I’m currently learning **Full Stack, DSA and CP** and exploring **DevOps**
 - 💡 Passionate about building scalable web apps and solving real-world problems through code.  
 - 📧 Reach me at:[nelcy.rathore07@gmail.com]
 
