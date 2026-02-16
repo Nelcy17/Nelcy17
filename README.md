@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I+Am+Nelcy+Rathore" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Nelcy Rathore
 
 🎓 **Computer Science Engineering Student |  Aspiring SDE |  Full-Stack Developer**
