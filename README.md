@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I+Am+Nelcy+Rathore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=#580ac4&center=true&vCenter=true&width=500&lines=Hey+I+Am+Nelcy+Rathore" alt="Typing SVG" />
 </p>
 
 
@@ -41,8 +41,6 @@
 
 ## 📈 GitHub Stats
 ![Nelcy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nelcy17&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelcy17&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nelcy17&theme=radical)
 
